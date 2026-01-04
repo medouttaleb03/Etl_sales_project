@@ -1,0 +1,14 @@
+[
+    {
+        "user": "Ali",
+        "orders_count": 1,
+        "total_spent": 20,
+        "label": "Normal"
+    },
+    {
+        "user": "Nour",
+        "orders_count": 1,
+        "total_spent": 30,
+        "label": "Normal"
+    }
+]

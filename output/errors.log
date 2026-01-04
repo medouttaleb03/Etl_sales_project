@@ -1,0 +1,2 @@
+{"order_id": "2", "error": "invalid literal for int() with base 10: 'abc'", "row": {"order_id": "2", "user": "Sara", "price": "abc", "quantity": "1", "status": "paid"}}
+{"order_id": "3", "error": "invalid literal for int() with base 10: ''", "row": {"order_id": "3", "user": "Omar", "price": "20", "quantity": "", "status": "paid"}}

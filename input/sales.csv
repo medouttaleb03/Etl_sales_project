@@ -1,0 +1,6 @@
+order_id,user,price,quantity,status
+1,Ali,10,2,paid
+2,Sara,abc,1,paid
+3,Omar,20,,paid
+4,Yassine,15,3,cancelled
+5,Nour,30,1,paid
